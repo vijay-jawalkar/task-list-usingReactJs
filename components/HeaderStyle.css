@@ -1,0 +1,11 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.navbar img {
+  height: 40px;
+  width: 60px;
+}
